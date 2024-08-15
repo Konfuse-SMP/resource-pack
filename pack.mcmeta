@@ -1,14 +1,9 @@
 {
   "pack": {
     "pack_format": 15,
-    "supported_formats": {
-      "min_inclusive": 15,
-      "max_inclusive": 999
-    },
     "description": [
       {
-        "translate": "Resource Pack tổng hợp tối ưu trải nghiệm chơi trên Konfuse SMP"
-      
+        "translate": "Resource Pack trải nghiệm chơi trên Konfuse SMP"
       }
     ]
   }
